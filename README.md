@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:ikeda.web.develop@gmail.com">ikeda.web.develop@gmail.com</a>
 - ⚡ Fun fact: Strength training
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda&show_icons=true&locale=en&layout=compact)
