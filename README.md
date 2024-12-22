@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Strength training
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda&show_icons=true&locale=en&layout=compact)
+![](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,astro,gatsby,tailwind,git,github,figma,vscode)
