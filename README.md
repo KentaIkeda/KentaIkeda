@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda&show_icons=true&locale=en&layout=compact)
 ![](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,astro,gatsby,tailwind,git,github,figma,vscode)
-![](https://github-readme-stats.vercel.app/apiusername=KentaIkeda&show_icons=true&layout=compact)
+![KentaIkeda's GitHub stats](https://github-readme-stats.vercel.app/apiusername=KentaIkeda&show_icons=true&)
+
