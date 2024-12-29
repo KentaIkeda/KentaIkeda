@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ---
 
 ## Languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,astro,gatsby,tailwind)
+![](https://skillicons.dev/icons?i=html,css,js,ts,rust,md)
 
 ## Frameworks
 ![](https://skillicons.dev/icons?i=react,nextjs,astro,gatsby,tailwind)
