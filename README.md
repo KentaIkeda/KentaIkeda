@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: <a href="mailto:ikeda.web.develop@gmail.com">ikeda.web.develop@gmail.com</a>
 - ⚡ Fun fact: Strength training
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda&show_icons=true&locale=en&layout=compact)
 ## Languages
 ![](https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,astro,gatsby,tailwind)
 
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 ---
 [![KentaIkeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentaIkeda)](https://github.com/KentaIkeda/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=KentaIkeda&show_icons=true&locale=en&layout=compact)
