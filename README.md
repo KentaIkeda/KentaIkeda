@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Urawa Japan
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Rust
 - 📫 How to reach me: <a href="mailto:ikeda.web.develop@gmail.com">ikeda.web.develop@gmail.com</a>
 - ⚡ Fun fact: Strength training
 ---
